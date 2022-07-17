@@ -1,16 +1,17 @@
-# qtube
+# QTube - Youtube Video Downloader
 
-A new Flutter project.
+### QTube is a youtube video downloader in which the user can directly download videos by just pasting the link or they can browse their videos and download them directly from the browser tab
 
-## Getting Started
+## Screen Shots
 
-This project is a starting point for a Flutter application.
+<table>
+    <tr>
+            <td> <img src="./ScreenShots/SS1.png" alt="" width="190" height=400"> </td>
+            <td> <img src="./ScreenShots/SS2.png" alt="" width="190" height=400"> </td>
+            <td> <img src="./ScreenShots/SS3.png" alt="" width="190" height=400"> </td>
+    </tr>
+</table>
 
-A few resources to get you started if this is your first Flutter project:
+## Deployment
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Yet to be release..
